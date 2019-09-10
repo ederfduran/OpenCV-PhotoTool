@@ -6,7 +6,7 @@
 * CMake and Make (Build Project)
 * vsCode (Editor)
 * lldb (Debug, https://code.visualstudio.com/docs/cpp/config-clang-mac)
-* vcpkg (Package Manager, https://github.com/microsoft/vcpkg)
+* vcpkg + OpenCV (Package Manager, https://github.com/microsoft/vcpkg)
 
 # Description 
 
