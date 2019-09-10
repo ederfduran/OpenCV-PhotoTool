@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/Users/ederduran/Desktop/cpp/vcpkg/installed/x64-osx/include/opencv4"
+                
+            ],
+            "defines": [],
+            "macFrameworkPath": [],
+            "compilerPath": "/usr/local/bin/gcc-6",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
